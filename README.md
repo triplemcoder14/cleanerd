@@ -31,7 +31,11 @@ chmod +x run.sh
 chmod +x scripts/*.sh
 
 
-### 3. Exclude Specific Files from Cleanup
+### 3. Run Cleanerd
+
+```./run.sh
+
+### 4. Exclude Specific Files from Cleanup
 
 Add paths to the config/exclude-list.txt file to avoid cleaning specific files or folders. For example:
 
