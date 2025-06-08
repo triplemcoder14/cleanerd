@@ -42,4 +42,4 @@ Add paths to the config/exclude-list.txt file to avoid cleaning specific files o
 
 ⚠️ Disclaimer
 
-Use at your own risk. Always review scripts before running them — especially those that delete files or use sudo.
+Use at your own risk. always review scripts before running them; especially those that delete files or use sudo.
