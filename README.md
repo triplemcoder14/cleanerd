@@ -26,7 +26,6 @@ cd cleanerd
 ### 2. Make Scripts Executable
 
 ```bash
-
 chmod +x run.sh
 chmod +x scripts/*.sh
 
